@@ -8,4 +8,4 @@
 pip install networkx matplotlib numpy
 
 ### Lancement du programme
-python try.py
+python detection.py
